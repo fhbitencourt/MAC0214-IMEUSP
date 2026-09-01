@@ -3,7 +3,8 @@
 - Codeforces Div3 Round 1114 (2h15) - 1/8 problema passado
 - Codeforces Div2 Round 1118 (2h15) - 1/7 problema passado
 
-# Problemas Resolvidos do Mês
+# Problemas Resolvidos do Mês 
+(média 30min cada)
 
 2254A - Codeforces
 
