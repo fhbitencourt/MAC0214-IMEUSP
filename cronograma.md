@@ -3,7 +3,7 @@ O mês de agosto tem como propósito se familiarizar ao setup de programação c
 A lista de atividades para o mês incluem:
 Participar da seletiva USP (5h de duração), participar dos contests div3 round 1114(2h15), div2 round 1118 (2h15) e simular o contest div4 round 1074 div4 (2h15). Resolver ao menos 10 exercícios de 800 de rating da aba Problemset no codeforces ou Leetcode ou CSES, em média 30min de duração cada, totalizando (5h/mês), realizar upsolving da seletiva USP (3h), realizar upsolving dos contest onlines e simulados feitos no período, em média 1h30 cada.
 
-Seletiva USP (5h) + Contests(4h30) + Exercícios(5h) + Upsolving de contests(3) + Upsolving Seletiva USP (3h) = 20h30
+Seletiva USP (5h) + Contests(4h30) + Exercícios(5h) + Upsolving de contests(3h) + Upsolving Seletiva USP (3h) = 20h30
 
 # Setembro
 Já familiarizado com o ambiente de programação competitiva, miraremos a faixa entre 1000 e 1200 de rating no codeforces para tentar a relação de problemas passados por contest. O foco nesta etapa é deixar de depender apenas de intuição e começar a identificar padrões clássicos, introduzindo técnicas essenciais como Two Pointers, Prefix Sums (somas de prefixos), Busca Binária em arrays e Teoria dos Números elementar (GCD, LCM).
